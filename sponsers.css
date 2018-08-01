@@ -7,6 +7,10 @@ p.top{
 	font-size: 100px;
 	margin-top: 0px;
 }
-div{
-	width: 683px;
+div.logosleft{
+	width: 638px;
+	display:inline-block;
+}
+img.dominos{
+	width: 638px;
 }
