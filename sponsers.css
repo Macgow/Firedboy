@@ -1,0 +1,16 @@
+body.backimg{
+	width:100%;
+}
+p.top{
+	color: white; 
+	text-align: center;
+	font-size: 100px;
+	margin-top: 0px;
+}
+div.logosleft{
+	width: 638px;
+	display:inline-block;
+}
+img.dominos{
+	width: 638px;
+}
